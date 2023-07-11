@@ -4,6 +4,11 @@
 ### Hi there 👋
 </div>
 
+### :woman_technologist: About Me :
+I am Back-End Developer from Russia
+- 🔭 I'm currently searching work
+- ⚡ In my free time, I learning new Java Technologies 
+- 📫 How to reach me: <img src="https://img.icons8.com/?size=512&id=ymzccwMmNkRx&format=png">
 <!--
 **hddn22/hddn22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
