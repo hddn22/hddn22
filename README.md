@@ -4,7 +4,7 @@
 ### Hi there 👋
 </div>
 
-### :woman_technologist: About Me :
+### 👨‍💻 About Me :
 I am Back-End Developer from Russia
 - 🔭 I'm currently searching work
 - ⚡ In my free time, I learning new Java Technologies 
