@@ -5,7 +5,7 @@
 </div>
 
 ### 👨‍💻 About Me :
-I am Back-End Developer from Russia
+I am Back-End Developer🎃 from Russia
 - 🔭 I'm currently searching work
 - ⚡ In my free time, I learning new Java Technologies 
 - 📫 How to reach me: <a href="https://t.me/hddn22"><img src="https://img.icons8.com/?size=512&id=ymzccwMmNkRx&format=png" width="20px"></a>
