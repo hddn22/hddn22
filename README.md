@@ -3,13 +3,17 @@
 
 ### Hi there 👋
 </div>
+
 ---
+
 ### 👨‍💻 About Me :
 I am Back-End Developer:suspect: from Russia
 - 🔭 I'm currently searching work
 - ⚡ In my free time, I learning new Java Technologies 
 - 📫 How to reach me: <a href="https://t.me/hddn22"><img src="https://img.icons8.com/?size=512&id=ymzccwMmNkRx&format=png" width="20px"></a>
+
 ---
+
 ###🛠️ Language and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
