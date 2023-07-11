@@ -28,6 +28,11 @@ I am Back-End Developer:suspect: from Russia
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 
 </div>
+
+---
+
+### 🔥 My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hddn22&theme=burnt-neon&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 <!--
 **hddn22/hddn22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
